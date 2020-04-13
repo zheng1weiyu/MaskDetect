@@ -1,0 +1,6 @@
+1. 本数据来源于MAFA dataset和WIDER FACE dataset。
+2. 训练集共6120张图片，来自与MAFA的有3006张图片（基本都是戴口罩的图片），
+   WIDER Face的有3114张（基本都是不戴口罩的图片）。
+3. 验证集共1839张图片，其中来自MAFA的有1059张图片， 来自于WIDER Face的共780张
+4. MAFA数据集链接：http://www.escience.cn/people/geshiming/mafa.html
+5. WIDER Face数据集链接：http://shuoyang1213.me/WIDERFACE/
